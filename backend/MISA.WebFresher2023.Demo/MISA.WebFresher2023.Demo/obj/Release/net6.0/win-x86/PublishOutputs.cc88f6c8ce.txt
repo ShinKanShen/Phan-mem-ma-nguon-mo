@@ -1,0 +1,8 @@
+D:\Tai_lieu_mon_hoc_HAUI\nam_3\ky_he\PhanMemMaNguonMo\btl\BaiTapNhom2\backend\MISA.WebFresher2023.Demo\MISA.WebFresher2023.Demo\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.Development.json
+D:\Tai_lieu_mon_hoc_HAUI\nam_3\ky_he\PhanMemMaNguonMo\btl\BaiTapNhom2\backend\MISA.WebFresher2023.Demo\MISA.WebFresher2023.Demo\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.json
+D:\Tai_lieu_mon_hoc_HAUI\nam_3\ky_he\PhanMemMaNguonMo\btl\BaiTapNhom2\backend\MISA.WebFresher2023.Demo\MISA.WebFresher2023.Demo\obj\Release\net6.0\win-x86\PubTmp\Out\firebase-config.json
+D:\Tai_lieu_mon_hoc_HAUI\nam_3\ky_he\PhanMemMaNguonMo\btl\BaiTapNhom2\backend\MISA.WebFresher2023.Demo\MISA.WebFresher2023.Demo\obj\Release\net6.0\win-x86\PubTmp\Out\MISA.WebFresher2023.Demo.pdb
+D:\Tai_lieu_mon_hoc_HAUI\nam_3\ky_he\PhanMemMaNguonMo\btl\BaiTapNhom2\backend\MISA.WebFresher2023.Demo\MISA.WebFresher2023.Demo\obj\Release\net6.0\win-x86\PubTmp\Out\MISA.WebFresher2023.Demo.BL.pdb
+D:\Tai_lieu_mon_hoc_HAUI\nam_3\ky_he\PhanMemMaNguonMo\btl\BaiTapNhom2\backend\MISA.WebFresher2023.Demo\MISA.WebFresher2023.Demo\obj\Release\net6.0\win-x86\PubTmp\Out\MISA.WebFresher2023.Demo.Common.pdb
+D:\Tai_lieu_mon_hoc_HAUI\nam_3\ky_he\PhanMemMaNguonMo\btl\BaiTapNhom2\backend\MISA.WebFresher2023.Demo\MISA.WebFresher2023.Demo\obj\Release\net6.0\win-x86\PubTmp\Out\MISA.WebFresher2023.Demo.DL.pdb
+D:\Tai_lieu_mon_hoc_HAUI\nam_3\ky_he\PhanMemMaNguonMo\btl\BaiTapNhom2\backend\MISA.WebFresher2023.Demo\MISA.WebFresher2023.Demo\obj\Release\net6.0\win-x86\PubTmp\Out\MISA.WebFresher2023.Demo.exe
